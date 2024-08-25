@@ -55,19 +55,19 @@ After training, the model's performance can be evaluated using:
 
 1. **Loss Curves:**
    
-   ![Loss Curve](https://imgur.com/CKBSIrB)
+   ![Loss Curve](https://i.imgur.com/CKBSIrB.jpeg)
    
 2. **Accuracy Curves:**
    
-   ![Accuracy Curve](https://imgur.com/TUmNvAD)
+   ![Accuracy Curve](https://i.imgur.com/TUmNvAD.jpeg)
    
 3. **Confusion Matrix:**
    
-   ![Confusion Matrix](https://imgur.com/C9F7t3O)
+   ![Confusion Matrix](https://i.imgur.com/C9F7t3O.jpeg)
    
 4. **ROC Curves:**
    
-   ![ROC Curve](https://imgur.com/SwnUoeL)
+   ![ROC Curve](https://i.imgur.com/SwnUoeL.jpeg)
 
 ## 🏆 Conclusion
 
