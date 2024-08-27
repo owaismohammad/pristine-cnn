@@ -12,6 +12,8 @@ The dataset includes water sample images categorized into two classes: clean and
 
 The images are stored in separate folders: clean and not_clean.
 
+### 🔗 [Download the Dataset Here](https://drive.google.com/drive/folders/1m6iHzfI5Roy4-1j7Fbvhd5J6ljrlgwzl?usp=drive_link)
+
 ## 🧠 Model Architecture
 
 The model uses the following layers:
